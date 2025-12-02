@@ -1,0 +1,28 @@
+NAMING CONVENTION :
+
+#Camel Case: myVariableName
+# Snake Case: my_variable_name
+# Pascal Case: MyVariableName (CaptialCamelCase)
+# Kebap Case: my-varaible-name (lisp-case, caterpillar-case)
+# Upper Snake Case: MY_VARIABLE_NAME
+# Flat Case: myvariablename
+# Cobol Case: MY-VARIABLE-NAME
+
+
+#pip install opencv-python
+#pip install pandas-datareader
+
+
+import cv2
+import pandas_datareader
+
+c,c++ ,java --> statically typed language
+
+python -------> dynamically typed language
+
+
+IDE(Integrated Development Environment) vs Notepad :
+
+
+
+

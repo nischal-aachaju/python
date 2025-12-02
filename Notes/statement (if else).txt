@@ -1,0 +1,3 @@
+Selection statement  if elif else 
+Iteration statement for while loop
+Transfer statement break continue return( return is only for function)
